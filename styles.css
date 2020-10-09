@@ -1,12 +1,12 @@
 body {
-    background: #CCE6F4;
+    background: #c6ccd8;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .assignment{
     display: flex;
     padding: 10px;
-    background: #7A7D7D;
+    background: #85a1c1;
     margin:10px;
 }
 
@@ -16,6 +16,10 @@ body {
 }
  
 h1{
-    color: #011638;
+    color: #274b69;
     text-align: center;
+}
+
+a {
+    text-decoration: none;
 }
